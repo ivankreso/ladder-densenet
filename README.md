@@ -36,3 +36,7 @@ python train.py --config_path='/path/to/fork/config/voc2012/densenet.py' --batch
 ```
 
 ## Evaluation
+
+For evaluation please refer to the new version of the repository:
+
+https://github.com/ivankreso/LDN
